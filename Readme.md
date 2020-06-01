@@ -1,3 +1,3 @@
-# GwangJu AI school Pre-course 
+## GwangJu AI school Pre-course 
 
-## week 1
+### week 1
